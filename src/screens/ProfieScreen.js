@@ -100,7 +100,7 @@ const ProfileScreen =({navigation})=>{
                             alert("User Removed Successfully");
                         }
                         else{
-                            alert("Delete action successful");
+                            alert("Delete action unsuccessful");
                         }
                     }}
                     />
